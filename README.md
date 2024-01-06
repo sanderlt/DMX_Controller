@@ -23,3 +23,4 @@ few images:
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/dmx_ctrl_nano_v.1.png">
 </picture>
+https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/dmx_ctrl_nano_v.1.png
