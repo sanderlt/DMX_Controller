@@ -22,7 +22,7 @@ KiCad PCB editor view:
  <img alt="KiCad PCB editor view:" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/pcb.png"  width='480'>
 
  
-Assembly Process:
+Assembly Process(you can see earliest pcb version):
 
  <img alt="Assembly Process:" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/0002.jpg"  width='480'>
 
