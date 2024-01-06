@@ -15,11 +15,11 @@ few images:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="[https://github.com/sanderlt/DMX_Controller/blob/main/media/dmx_ctrl_nano_v.1.png](https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/dmx_ctrl_nano_v.1.png)">
+ <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/pcb.png">
 </picture>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="[https://github.com/sanderlt/DMX_Controller/blob/main/media/pcb.png](https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/pcb.png)https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/pcb.png">
+ <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/dmx_ctrl_nano_v.1.png">
 </picture>
