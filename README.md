@@ -17,14 +17,14 @@ few images:
 
 <picture>
  
- <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/dmx_ctrl_nano_v.1.png">
+ <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/dmx_ctrl_nano_v.1.png"  width='480'>
 </picture>
 
- <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/pcb.png">
+ <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/pcb.png"  width='480'>
 </picture>
 
- <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/0001.jpg">
+ <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/0001.jpg"  width='480'>
 </picture>
 
- <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/0002.jpg">
+ <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/0002.jpg"  width='480'>
 </picture>
