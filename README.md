@@ -6,6 +6,7 @@ Files created in KiCad 7.0.1 and Arduino IDE 2.2.1
 
 Firmware contain 20 programs. To switch betwin program please choose DMX address and fader to use specific program(see dmx_ctrl_nano_v.1.ino line 124 for options).
 
+Planning to add smd AVR(or ARM) version
 
 Demo video:
 
