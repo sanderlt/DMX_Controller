@@ -19,3 +19,12 @@ few images:
  
  <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/dmx_ctrl_nano_v.1.png">
 </picture>
+
+ <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/pcb.png">
+</picture>
+
+ <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/0001.jpg">
+</picture>
+
+ <img alt="tttttT" src="https://raw.githubusercontent.com/sanderlt/DMX_Controller/main/media/0002.jpg">
+</picture>
